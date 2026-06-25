@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Rinky Yadav 👋
 
-<!--
-**Rinky975/Rinky975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & Engineering Student at Dronacharya College of Engineering
 
-Here are some ideas to get you started:
+💻 Passionate about Software Engineering, Artificial Intelligence, and Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Java
+* C
+* C++
+* Python
+* SQL
+* Data Structures & Algorithms
+* HTML & CSS
+* Git & GitHub
+
+## Current Projects
+
+### Smart Task Reminder & Follow-up System
+
+AI-powered task management platform with automated reminders, analytics, and delay prediction.
+
+### WombCare-AI
+
+Healthcare AI solution for medical image analysis using Deep Learning and Computer Vision.
+
+## Achievements
+
+* CGPA: 8.5/10
+* Solved 80+ LeetCode problems
+* Completed Cybersecurity Internship at Progression Infotech Pvt. Ltd.
+* NPTEL Certifications in Java and Data Structures
+
+## Learning Goals
+
+* Advanced Java
+* Spring Boot
+* System Design
+* Machine Learning
+* Competitive Programming
