@@ -13,7 +13,7 @@
 * SQL
 * Data Structures & Algorithms
 * HTML & CSS
-* Git & GitHub
+* GitHub
 
 ## Current Projects
 
